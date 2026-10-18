@@ -1,0 +1,2 @@
+﻿domain_class,range_class,property,restriction_type,min_value,max_value,hasValue
+M483_Chews_Tobacco,xsd:integer,hasChewsTobaccoDailyHours,hasValueRestriction,0,23,

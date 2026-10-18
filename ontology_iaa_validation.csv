@@ -1,0 +1,13 @@
+item_id,annotation_context,annotator_A,annotator_B,agreement,record_type
+IA001,Oral leukoplakia,Leukoplakia,Leukoplakia,Agree,pilot records
+IA002,Oral erythroplakia,Erythroplakia,Erythroplakia,Agree,pilot records
+IA003,Oral submucous fibrosis,Oral submucous fibrosis,Oral submucous fibrosis,Agree,pilot records
+IA004,Oral lichen planus,Oral lichen planus,Oral lichenoid lesion,Disagree,pilot records
+IA005,Buccal mucosa,Buccal mucosa,Buccal mucosa,Agree,pilot records
+IA006,Tongue - lateral border,Lateral border of tongue,Lateral tongue,Disagree,pilot records
+IA007,Moderate epithelial dysplasia,Moderate oral epithelial dysplasia,Moderate epithelial dysplasia,Agree,pilot records
+IA008,Severe epithelial dysplasia,Severe oral epithelial dysplasia,Severe epithelial dysplasia,Agree,pilot records
+IA009,Oral squamous cell carcinoma,Oral squamous cell carcinoma,Oral squamous cell carcinoma,Agree,pilot records
+IA010,Verrucous carcinoma,Verrucous carcinoma,Verrucous carcinoma,Agree,pilot records
+IA011,Oral candidiasis,Oral candidiasis,Oral candidiasis,Agree,pilot records
+IA012,Frictional keratosis,Frictional keratosis,Frictional keratosis,Agree,pilot records

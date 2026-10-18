@@ -1,0 +1,11 @@
+cq_id,competency_question,target_concept_or_relation,expected_answer,example_ontology_result,acceptance_criterion,record_type
+CQ001,Can the ontology represent oral leukoplakia as an oral potentially malignant disorder?,Leukoplakia,yes,yes,Class exists and is connected to intended hierarchy,pilot records
+CQ002,Can the ontology represent oral erythroplakia as a distinct clinical concept?,Erythroplakia,yes,yes,Distinct concept is retrievable,pilot records
+CQ003,Can the ontology represent oral submucous fibrosis as an oral disease concept?,Oral submucous fibrosis,yes,yes,Concept and hierarchy are retrievable,pilot records
+CQ004,Can the ontology represent the lateral border of the tongue as an anatomical site?,Lateral border of tongue,yes,yes,Anatomical concept is retrievable,pilot records
+CQ005,Can the ontology represent moderate epithelial dysplasia as a histopathological concept?,Moderate epithelial dysplasia,yes,yes,Histopathology concept is retrievable,pilot records
+CQ006,Can the ontology represent severe epithelial dysplasia as a histopathological concept?,Severe epithelial dysplasia,yes,yes,Histopathology concept is retrievable,pilot records
+CQ007,Can the ontology represent oral squamous cell carcinoma as a diagnostic concept?,Oral squamous cell carcinoma,yes,yes,Diagnostic concept is retrievable,pilot records
+CQ008,Can the ontology distinguish oral lichen planus from an oral lichenoid lesion?,Oral lichen planus / Oral lichenoid lesion,yes,no,Requires explicit distinct concepts/relationship review,pilot records
+CQ009,Can the ontology represent a relationship between a lesion concept and an anatomical site?,Leukoplakia -> oral site,yes,yes,Relevant property/relation is retrievable,pilot records
+CQ010,Can the ontology represent hierarchical parent-child relationships among oral pathology concepts?,Oral pathology hierarchy,yes,yes,Subclass hierarchy is retrievable,pilot records

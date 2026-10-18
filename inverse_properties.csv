@@ -1,0 +1,2 @@
+﻿property1,property2,is_object_property,property1_uri,property2_uri,property1_domain_uri,property1_range_uri,property2_domain_uri,property2_range_uri
+hasParent,hasChild,TRUE,http://example.com/hasParent,http://example.com/hasChild,http://example.com/M287_Patient_Identification,http://example.com/M287_Patient_Identification,http://example.com/M287_Patient_Identification,http://example.com/M287_Patient_Identification

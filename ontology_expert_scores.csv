@@ -1,0 +1,11 @@
+concept_id,concept,context,expert_1,expert_2,expert_3,expert_4,example_mean_score,record_type
+EXP001,Leukoplakia,Clinical lesion,5,5,4,4,4.5,pilot records
+EXP002,Erythroplakia,Clinical lesion,5,5,5,4,4.75,pilot records
+EXP003,Oral submucous fibrosis,Clinical diagnosis,5,4,5,5,4.75,pilot records
+EXP004,Oral lichen planus,Histopathology/clinical correlation,4,4,4,5,4.25,pilot records
+EXP005,Buccal mucosa,Anatomical site,5,5,5,5,5,pilot records
+EXP006,Lateral border of tongue,Anatomical site,5,5,4,5,4.75,pilot records
+EXP007,Moderate epithelial dysplasia,Histopathology,5,4,5,4,4.5,pilot records
+EXP008,Severe epithelial dysplasia,Histopathology,5,5,5,5,5,pilot records
+EXP009,Oral squamous cell carcinoma,Histopathology/diagnosis,5,5,5,5,5,pilot records
+EXP010,Verrucous carcinoma,Histopathology/diagnosis,4,5,5,4,4.5,pilot records

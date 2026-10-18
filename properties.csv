@@ -1,0 +1,24 @@
+﻿property_name,property_uri,is_object_property,domain_uri,range_uri,property_name_definition
+hasChewsTobacco,http://example.com/hasChewsTobacco,FALSE,http://example.com/M516_Chews_tobacco,xsd:boolean,Indicates the engagement or association of an individual with the habit of chewing tobacco.
+hasChewsTobaccoDailyHours,http://example.com/hasChewsTobaccoDailyHours,FALSE,http://example.com/M516_Chews_tobacco,xsd:decimal,Indicates the daily hours engagement or association of an individual with the habit of chewing tobacco.
+hasPatientInformation,http://example.com/hasPatientInformation,TRUE,http://example.com/M253_Patient_Identification,http://example.com/M2_Patient_Information,The possession or inclusion of relevant details and data concerning a specific patient within a given context or system.
+hasPatientInteraction,http://example.com/hasPatientInteraction,TRUE,http://example.com/M253_Patient_Identification,http://example.com/M1_Patient_Interaction,"A relationship wherein there is direct engagement, communication, or involvement between a healthcare provider, such as a doctor, and a patient in the context of medical care."
+hasPatientID,http://example.com/hasPatientID,FALSE,http://example.com/M253_Patient_Identification,xsd:string,TBD
+hasPatientSex,http://example.com/hasPatientSex,FALSE,http://example.com/M322_Patient_Sex_MorForO,xsd:string,Indicates Male or Female or Other sex of the patient.
+hasDateofBirth,http://example.com/hasDateofBirth,FALSE,http://example.com/M323_Date_of_Birth,xsd:date,Indicates the date of birth of the patient.
+hasEconomicStatus,http://example.com/hasEconomicStatus,FALSE,http://example.com/M80_Economic_Status,xsd:string,"Refers to the financial condition of a person, encompassing factors such as income, wealth, and overall economic well-being."
+hasOccupation,http://example.com/hasOccupation,FALSE,http://example.com/M29_Occupation,xsd:string,
+hasPatientName,http://example.com/hasPatientName,FALSE,http://example.com/M15_Patient_Name,xsd:string,
+hasTumorHpvType,http://example.com/hasTumorHpvType,FALSE,http://example.com/M1095_Tumor_HPV_Type,xsd:string,
+hasTumorMaxDiameter,http://example.com/hasTumorMaxDiameter,FALSE,http://example.com/M1098_Tumor_Max_Diameter,xsd:decimal,
+hasFever,http://example.com/hasFever,FALSE,http://example.com/M391_Fever,xsd:boolean,
+hasDiagnosis,http://example.com/hasDiagnosis,FALSE,http://example.com/M207_Confirmation_of_Oral_Cancer_Diagnosis,xsd:string,
+hasSPO2,http://example.com/hasSPO2,FALSE,http://example.com/M467_SPO2,xsd:integer,
+hasBloodPressure,http://example.com/hasBloodPressure,FALSE,http://example.com/M464_Blood_Pressure,xsd:string,
+hasHeartRate,http://example.com/hasHeartRate,FALSE,http://example.com/M465_Heart_Rate,xsd:integer,
+hasRespiratoryRate,http://example.com/hasRespiratoryRate,FALSE,http://example.com/M466_Respiratory_Rate,xsd:integer,
+hasDateofSymptomFirstObserved,http://example.com/hasDateofSymptomFirstObserved,FALSE,http://example.com/M320_Date_of_Chief_Complaint_or_Symptoms_First_Observed_Estimate_or_Actual,xsd:date,
+hasConsultationDate,http://example.com/hasConsultationDate,FALSE,http://example.com/M305_Consultation_Date_equivalent_to_Date_of_Clinician_Booked,xsd:time,
+hasSymptom,http://example.com/hasSymptom,TRUE,http://example.com/M287_Patient_Identification,http://example.com/M438_Painful_Swallowing,
+hasTreatment,http://example.com/hasTreatment,TRUE,http://example.com/M287_Patient_Identification,http://example.com/M937_Chemotherapy,
+hasDentalHistory,http://example.com/hasDentalHistory,TRUE,http://example.com/M287_Patient_Identification,http://example.com/M547_Root_Canal_Treatments,
